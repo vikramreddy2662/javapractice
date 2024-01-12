@@ -21,7 +21,7 @@ public class maps {
             System.out.println(e.getKey()+":"+e.getValue());
         }
 
-        for(m.Entry:)
+
 
 
 
